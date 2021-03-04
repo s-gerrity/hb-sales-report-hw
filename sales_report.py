@@ -1,5 +1,6 @@
 """Generate sales report showing total melons each salesperson sold."""
-
+# Main feedback to improve this process would be to be only send us 
+# the salespersons name and the qty melons sold for each person in one list
 
 salespeople = []
 melons_sold = []
